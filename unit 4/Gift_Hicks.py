@@ -16,3 +16,5 @@ else:
     new = float(input("Please enter the cost of your toy: "))
     print "The cost of",toy.title(),"is $",new
 
+
+    
